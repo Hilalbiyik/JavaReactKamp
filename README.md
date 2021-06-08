@@ -12,4 +12,4 @@
 
 ## JAVA Temelleri  1
 - [Kurs 3 : inheritance](https://github.com/Hilalbiyik/JavaReactKamp/tree/main/inheritance) ,
-- [Kurs 3 : inheritance2](https://github.com/Hilalbiyik/JavaReactKamp/tree/main/inheritance2)
+[Kurs 3 : inheritance2](https://github.com/Hilalbiyik/JavaReactKamp/tree/main/inheritance2)
