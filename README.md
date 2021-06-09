@@ -1,5 +1,5 @@
 # Yazılım Geliştirici Yetiştirme Kampı (Java & React)
-- Bu repository Engin Demiroğ ile "Yazılım Geliştirici Yetiştirme Kampı" çalışmarını içermekte ve senkronize şekilde ilerlemektedir.
+- Bu repository Engin Demiroğ ile "Yazılım Geliştirici Yetiştirme Kampı" çalışmalarını içermekte ve senkronize şekilde ilerlemektedir.
 
 <a href="https://www.kodlama.io/p/yazilim-gelistirici-yetistirme-kampi2">
 <img width="250px" src="https://user-images.githubusercontent.com/77548014/121215812-0121d000-c889-11eb-87ee-9bca3e46ee89.png"></a>
