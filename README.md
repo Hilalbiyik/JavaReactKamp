@@ -9,6 +9,7 @@
 
 ## JAVA Temelleri  2
 - [Kurs 2 : oopIntro](https://github.com/Hilalbiyik/JavaReactKamp/tree/main/oopIntro)
+   * [Kurs 2 : Ödev](https://github.com/Hilalbiyik/JavaReactKamp/tree/main/homeworks/gun2odev1/src/gun2odev1)
 
 ## JAVA ile Nesne Yönelimli Programlamaya Giriş
 - [Kurs 3 : inheritance](https://github.com/Hilalbiyik/JavaReactKamp/tree/main/inheritance) ,
