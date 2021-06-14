@@ -1,6 +1,7 @@
 package gun2odev1;
 
 public class Student {
+	
 	int id ; 
 	String studentName;
 	String studentSurname;
